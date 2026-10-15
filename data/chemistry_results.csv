@@ -1,0 +1,13 @@
+﻿molecule_name,formula,smiles,predicted_property,predicted_value
+Этанол,C2H6O,CCO,logS,-1.0892
+Уксусная кислота,C2H4O2,CC(=O)O,logS,-0.3915
+Бензен,C6H6,c1ccccc1,logS,-1.7974
+Ацетон,C3H6O,CC(C)=O,logS,-0.7597
+Метанол,CH4O,CO,logS,-0.8083
+Пропанол,C3H8O,CCCO,logS,-1.0754
+Фенол,C6H6O,Oc1ccccc1,logS,-1.4194
+Анилин,C6H7N,Nc1ccccc1,logS,-1.6412
+Ацетамид,C2H5NO,CC(N)=O,logS,-0.5739
+Глицерин,C3H8O3,OCC(O)CO,logS,-0.1269
+Циклогексан,C6H12,C1CCCCC1,logS,-4.1498
+Толуол,C7H8,Cc1ccccc1,logS,-1.9375

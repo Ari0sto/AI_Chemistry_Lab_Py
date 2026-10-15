@@ -1,0 +1,13 @@
+molecule_name,smiles
+Этанол,CCO
+Уксусная кислота,CC(=O)O
+Бензен,c1ccccc1
+Ацетон,CC(=O)C
+Метанол,CO
+Пропанол,CCCO
+Толуол,Cc1ccccc1
+Фенол,Oc1ccccc1
+Анилин,Nc1ccccc1
+Ацетамид,CC(N)=O
+Глицерин,OCC(O)CO
+Циклогексан,C1CCCCC1

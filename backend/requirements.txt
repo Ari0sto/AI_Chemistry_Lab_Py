@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+transformers>=4.44,<5
+torch>=2.3,<3
+rdkit>=2024.3
