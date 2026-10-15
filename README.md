@@ -149,3 +149,7 @@ CSV кодируются `UTF-8 with BOM`, чтобы русские назва�
 - обработка некорректного SMILES, пустых полей и отключения backend.
 
 **Важно:** этот перечень подтверждает функциональность программы, но не точность химических прогнозов.
+<img width="1900" height="867" alt="Снимок экрана 2026-10-15 192747" src="https://github.com/user-attachments/assets/2084d957-cad2-4e91-8a35-0f5e339656fd" />
+<img width="1483" height="576" alt="Снимок экрана 2026-10-15 192822" src="https://github.com/user-attachments/assets/06e23bce-d7ff-439e-ada0-6d947cceebfc" />
+<img width="1512" height="466" alt="Снимок экрана 2026-10-15 192800" src="https://github.com/user-attachments/assets/4c09ed55-5448-4776-8594-6e2df44e7289" />
+
