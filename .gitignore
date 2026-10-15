@@ -17,4 +17,3 @@ dist/
 .DS_Store
 Thumbs.db
 # Keep data/chemistry_results.csv in Git: it is required for submission.
-# Never commit downloaded Hugging Face model caches.
